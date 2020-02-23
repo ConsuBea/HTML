@@ -1,3 +1,4 @@
 # HTML
 Repositorio HTML
-Mi repositorio sobre trabajos durante la formación en Laboratorio MILMA
+Mi repositorio sobre trabajos durante la formación Programación Web Front-End
+Laboratorio MILMA
